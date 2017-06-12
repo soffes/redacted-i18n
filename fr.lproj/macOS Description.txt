@@ -1,0 +1,7 @@
+Avec Redacted, il est rapide et facile de censurer une parties d'une image. Cachez des details sensibles en cliquant en faisant glisser. Vous pouvez expurger une image de trois façons différentes:
+
+• pixéliser
+• brouiller
+• caviarder
+
+Glisser et déposer une image dans Redacted ou copier-coller l'image pour commencer. Lorsque vous avez terminé, vous pouvez la partager sur Facebook ou Twitter, ou simplement la sauver sur votre ordinateur.
