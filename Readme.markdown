@@ -16,6 +16,18 @@ Each language has its own `.lproj` folder. Inside are several `.strings` files:
 | Shared.strings        | Strings used in both the macOS and iOS apps |
 
 
+## Contributing
+
+If you’d like to contribute a localization, thank you!❤️ Here are some quick tips:
+
+* Make sure you do each file.
+* Don't localize comments in the strings files. (They look `/* like this */`.)
+* Run the tests to check your work. Simple run `rake` in this directory.
+* Open a PR when you’re ready.
+
+Feel free to [email me](mailto:sam@soff.es) if you have any questions about a string's usage or anything else. Thanks again!
+
+
 ## Thanks
 
 Huge thanks to all of the volunteers that have helped localize Redacted!
