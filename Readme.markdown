@@ -9,6 +9,7 @@ Each language has its own `.lproj` folder. Inside are several `.strings` files:
 
 | Name                  | Description                                 |
 |-----------------------|---------------------------------------------|
+| iOS InfoPlist.Strings | Strings used by the system for the iOS app  |
 | iOS.Strings           | Strings used in the iOS app                 |
 | macOS Description.txt | App Store description for macOS app         |
 | macOS Keywords.txt    | App Store keywords for macOS app            |
