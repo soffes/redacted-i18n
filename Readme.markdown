@@ -18,7 +18,7 @@ Each language has its own `.lproj` folder. Inside are several `.strings` files:
 
 ## Thanks
 
-Huge thanks to all of the volunteers that have helped translate Redacted!
+Huge thanks to all of the volunteers that have helped localize Redacted!
 
 ### French
 
