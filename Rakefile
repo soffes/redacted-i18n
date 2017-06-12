@@ -3,6 +3,11 @@
 REFERENCE_LANGUAGE = 'en'
 MAXIMUM_KEYWORDS_LENGTH = 100
 
+# TODO:
+# - [ ] Validate keywords
+# - [ ] Ensure description isn’t empty
+# - [ ] Ensure all of the reference languages’s keys are present for a given strings file
+
 desc 'Validate strings'
 task :test do
   @errors = 0
