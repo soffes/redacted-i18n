@@ -1,0 +1,10 @@
+Redacted torna censurar parte de uma imagem simples e rápido. Esconde detalhes sensíveis e privados de uma imagem apenas com um clique e deslize.
+Podes censurar uma imagem em três maneiras diferentes:
+
+• Pixalizando
+• Desfocando
+• Barras pretas
+
+Rapidamente arrasta uma imagem para Redacted, ou "copy paste" para começares. Quando estiveres despachado partilha no Facebook, Twitter, ou outros serviços com o menu de partilha do macOS, ou simplesmente copia a imagem no Redacted.
+
+PS: Redacted ainda não suporta PDFs. Ainda.
