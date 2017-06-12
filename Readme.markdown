@@ -19,14 +19,54 @@ Each language has its own `.lproj` folder. Inside are several `.strings` files:
 
 ## Contributing
 
-If you’d like to contribute a localization, thank you!❤️ Here are some quick tips:
+If you’d like to contribute a localization, thank you!❤️
+
+There are a few types of files: `.strings`, `.txt`, and `.markdown`. For `.txt` and `.markdown`, translate the whole thing.
+
+
+### Strings Files
+
+`.strings` files are a little more complicated. Here’s a simple excerpt in English:
+
+``` c
+/* Modes */
+"MODE" = "Mode";
+"PIXELATE" = "Pixelate";
+"BLUR" = "Blur";
+"BLACK_BAR" = "Black Bar";
+```
+
+Here it is in French:
+
+``` c
+/* Modes */
+"MODE" = "Mode";
+"PIXELATE" = "Pixéliser";
+"BLUR" = "Brouiller";
+"BLACK_BAR" = "Barre de censure";
+```
+
+You can see the `/* Modes */` doesn’t get translated. This is simply a comment for the localizers to read. The left side of the equal sign is the *key*. Don’t change this! The right side is where you can change the English into your language. Be sure to keep the semicolon after the closing quote.
+
+Here’s another example:
+
+``` c
+"VERSION_FORMAT" = "Version %@";
+```
+
+The `%@` is a placeholder. The app will replace this with some text while it’s running. In English, this will look something like "Version 1.2". If you wanted the number to come before the word in your language, simply move the `%@` to the front. Don’t change the order of `%@` though.
+
+### Tips
+
+Here are some quick tips:
 
 * Make sure you do each file.
-* Don't localize comments in the strings files. (They look `/* like this */`.)
+* Don’t localize keys in strings files.
+* Don’t localize comments in the strings files. (They look `/* like this */`.)
 * Run the tests to check your work. Simple run `rake` in this directory.
 * Open a PR when you’re ready.
 
-Feel free to [email me](mailto:sam@soff.es) if you have any questions about a string's usage or anything else. Thanks again!
+Feel free to [email me](mailto:sam@soff.es) if you have any questions about a string’s usage or anything else. Thanks again!
 
 
 ## Thanks
@@ -42,3 +82,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Dutch
 
 * [Hidde van der Ploeg](https://twitter.com/hiddevdploeg)
+
+
+### Portuguese
+
+* [Rafael Conde](https://twitter.com/rafahari)
