@@ -19,7 +19,7 @@ Each language has its own `.lproj` folder. Inside are several `.strings` files:
 
 ## Contributing
 
-If you’d like to contribute a localization, thank you!❤️
+If you’d like to contribute a localization, thank you! ❤️
 
 There are a few types of files: `.strings`, `.txt`, and `.markdown`. For `.txt` and `.markdown`, translate the whole thing.
 
