@@ -1,1 +1,1 @@
-blur,pixelate,redact,obscure,editor
+sløre,pixelere,redigere,tildække,editor

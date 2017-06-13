@@ -6,5 +6,5 @@
   Copyright © 2017 Nothing Magical Inc. All rights reserved.
 */
 
-"NSCameraUsageDescription" = "Redacted uses your camera to import photos.";
-"NSPhotoLibraryUsageDescription" = "Redacted uses your photo library to import photos.";
+"NSCameraUsageDescription" = "Redacted bruger dit kamera til at importere fotos.";
+"NSPhotoLibraryUsageDescription" = "Redacted bruger dit fotobibliotek til at importere fotos.";
