@@ -2,4 +2,4 @@
 
 ## Version 1.2
 
-Touch Bar ondersteuning toegevoegd
+Added Touch Bar support
