@@ -1,9 +1,9 @@
-Redacted makes it quick and easy to redact parts of an image. Hide sensitive details of an image by simply clicking and dragging. You can redact an image in three different ways:
+Redacted gør det nemt og hurtigt at redigere dele af et billede. Gem sensitive detaljer af et billede med et par klik. Du kan redigere et billede på tre forskellige måder:
 
-• Pixelate
-• Blur
-• Black bar
+• Pixelering
+• Sløring
+• Sorte streger
 
-Quickly drag and drop an image into Redacted or simply paste and image to get going. When you're done, share it to Facebook, Twitter, and more with macOS's share menu or simply copy the image out of Redacted.
+Træk et billede ind i Redacted eller indsæt et fra udklipsholderen for at komme igang. Når du er færdig, kan du dele det til Facebook, Twitter o.lign. med macOS's dele menu eller kopier billedet fra Redacted.
 
-Note: Redacted doesn't support PDFs yet.
+OBS: Redacted håndterer p.t. ikke PDF dokumenter.
