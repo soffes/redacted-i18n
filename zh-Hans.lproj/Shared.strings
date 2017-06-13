@@ -1,0 +1,39 @@
+/*
+  Localizable.strings
+  Redacted
+
+  Created by Sam Soffes on 4/14/15.
+  Copyright © 2015–2017 Nothing Magical Inc. All rights reserved.
+*/
+
+/* Modes */
+"MODE" = "模式";
+"PIXELATE" = "打码";
+"BLUR" = "模糊";
+"BLACK_BAR" = "黑条";
+
+/* Actions */
+"SHARE" = "分享";
+"CLEAR" = "清除";
+"CLEAR_IMAGE" = "清除图片";
+"SAVE" = "保存";
+"EXPORT" = "导出…";
+
+/* Edit menu */
+"COPY_IMAGE" = "复制图片";
+"PASTE_IMAGE" = "粘贴图片";
+"SELECT_ALL_REDACTIONS" = "选择所有 Redactions";
+
+/* Undo actions */
+"INSERT_REDACTION" = "插入 Redaction";
+"INSERT_REDACTIONS" = "插入 Redactions";
+"DELETE_REDACTION" = "删除 Redaction";
+"DELETE_REDACTIONS" = "删除 Redactions";
+
+/* About */
+"VERSION_FORMAT" = "版本 %@";
+"CREDITS" = "由 Nothing Magical 在加利福尼亚设计和开发。";
+
+/* Tutorial */
+"DRAG_TO_GET_STARTED" = "拖拽一张图片到这里";
+"CLICK_AND_DRAG" = "点击并拖拽来开始编辑";
