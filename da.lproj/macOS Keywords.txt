@@ -1,0 +1,1 @@
+blur,pixelate,redact,obscure,editor
