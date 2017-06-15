@@ -2,7 +2,9 @@
 
 ## Versión 1.2.1
 
-Traducción portuguesa
+* Añadido Traducción Portuguesa
+* Añadido Traducción Chino simplificado
+* Añadido Traducción Española
 
 
 ## Versión 1.2
