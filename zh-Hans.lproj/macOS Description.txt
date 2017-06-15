@@ -4,6 +4,6 @@ Redacted 可以简单、快速地编辑图片区域。通过简单的点击和�
 • 模糊
 • 黑条
 
-快速地将图片拖拽并放入 Redacted 或者就简单地粘贴图片来开始编辑。当你编辑完成后，可以把图片分享到 Facebook、Twitter 以及更多 macOS 所提供的分享途径，或者就简单地把图片从 Redacted 拷贝出来。
+快速地将图片导入 Redacted 或者就简单地粘贴图片来开始编辑。当你编辑完成后，可以把图片分享到 Facebook、Twitter 以及更多 macOS 所提供的分享途径，或者就简单地把图片从 Redacted 拷贝出来。
 
 注意：Redacted 还不支持 PDF 格式。
