@@ -1,4 +1,4 @@
-Redactado hace redactar partes de un imagen rápido y fácil. Oculta detalles sensibles de un imagen con simplemente haciendo clic y arrastrando. Puedes redactar una imagen en tres diferentes maneras:
+Redacted hace censurar partes de un imagen rápido y fácil. Oculta detalles sensibles de un imagen con simplemente haciendo clic y arrastrando. Puedes censurar un imagen en tres diferentes maneras:
 
 • Pixelado
 • Difuminar
