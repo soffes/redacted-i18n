@@ -100,3 +100,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Danish
 
 * [Chriztian Steinmeier](https://github.com/greystate)
+
+
+### Spanish
+
+* [Fernando Paredes](https://github.com/nanoxd)
