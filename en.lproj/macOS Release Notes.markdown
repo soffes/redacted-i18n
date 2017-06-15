@@ -5,6 +5,7 @@
 * Add Portuguese localization
 * Add Simplified Chinese localization
 * Add Danish localization
+* Add Spanish localization
 
 
 ## Version 1.2
