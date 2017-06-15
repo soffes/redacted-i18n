@@ -2,10 +2,11 @@
 
 ## Version 1.2.1
 
-* Added Portuguese localization
-* Added Simplified Chinese localization
+* Add Portuguese localization
+* Add Simplified Chinese localization
+* Add Danish localization
 
 
 ## Version 1.2
 
-Added Touch Bar support
+Add Touch Bar support
