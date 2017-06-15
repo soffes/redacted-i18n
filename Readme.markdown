@@ -7,14 +7,16 @@ All of the strings files for [Redacted](https://itunes.apple.com/app/redacted/id
 
 Each language has its own `.lproj` folder. Inside are several `.strings` files:
 
-| Name                  | Description                                 |
-|-----------------------|---------------------------------------------|
-| iOS InfoPlist.Strings | Strings used by the system for the iOS app  |
-| iOS.Strings           | Strings used in the iOS app                 |
-| macOS Description.txt | App Store description for macOS app         |
-| macOS Keywords.txt    | App Store keywords for macOS app            |
-| macOS.strings         | Strings used in the macOS app               |
-| Shared.strings        | Strings used in both the macOS and iOS apps |
+| Name                         | Description                                 |
+|------------------------------|---------------------------------------------|
+| iOS Description.txt          | App Store description for iOS app           |
+| iOS InfoPlist.Strings        | Strings used by the system for the iOS app  |
+| iOS.Strings                  | Strings used in the iOS app                 |
+| Keywords.txt                 | App Store keywords for both apps (must be less than 100 characters) |
+| macOS Description.txt        | App Store description for macOS app         |
+| macOS Release Notes.markdown | What’s new in each version of the macOS app |
+| macOS.strings                | Strings used in the macOS app               |
+| Shared.strings               | Strings used in both apps                   |
 
 
 ## Contributing
