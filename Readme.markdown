@@ -7,14 +7,16 @@ All of the strings files for [Redacted](https://itunes.apple.com/app/redacted/id
 
 Each language has its own `.lproj` folder. Inside are several `.strings` files:
 
-| Name                  | Description                                 |
-|-----------------------|---------------------------------------------|
-| iOS InfoPlist.Strings | Strings used by the system for the iOS app  |
-| iOS.Strings           | Strings used in the iOS app                 |
-| macOS Description.txt | App Store description for macOS app         |
-| macOS Keywords.txt    | App Store keywords for macOS app            |
-| macOS.strings         | Strings used in the macOS app               |
-| Shared.strings        | Strings used in both the macOS and iOS apps |
+| Name                         | Description                                 |
+|------------------------------|---------------------------------------------|
+| iOS Description.txt          | App Store description for iOS app           |
+| iOS InfoPlist.strings        | Strings used by the system for the iOS app  |
+| iOS.Strings                  | Strings used in the iOS app                 |
+| Keywords.txt                 | App Store keywords for both apps (must be less than 100 characters) |
+| macOS Description.txt        | App Store description for macOS app         |
+| macOS Release Notes.markdown | What’s new in each version of the macOS app |
+| macOS.strings                | Strings used in the macOS app               |
+| Shared.strings               | Strings used in both apps                   |
 
 
 ## Contributing
@@ -66,7 +68,7 @@ Here are some quick tips:
 * Run the tests to check your work. Simple run `rake` in this directory.
 * Open a PR when you’re ready.
 
-Feel free to [email me](mailto:sam@soff.es) if you have any questions about a string’s usage or anything else. Thanks again!
+Feel free to [email me](mailto:sam@soff.es) if you have any questions about a string’s usage, need help opening a pull request, or anything else. Thanks again!
 
 
 ## Thanks
@@ -87,3 +89,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Portuguese
 
 * [Rafael Conde](https://twitter.com/rafahari)
+
+
+### Simplified Chinese
+
+* [Yiming Tang](https://twitter.com/yiming_t)
