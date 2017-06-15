@@ -4,6 +4,6 @@ Redacted makes it quick and easy to redact parts of an image. Hide sensitive det
 • Blur
 • Black bar
 
-Quickly import an image into Redacted or simply paste and image to get going. When you're done, share it to Facebook, Twitter, and more with iOS's share menu or simply copy the image out of Redacted.
+Quickly import an image into Redacted or simply paste and image to get going. When you're done, share it to Facebook, Twitter, and more with macOS's share menu or simply copy the image out of Redacted.
 
 Note: Redacted doesn't support PDFs yet.
