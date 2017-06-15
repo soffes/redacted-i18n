@@ -1,0 +1,9 @@
+Redacted gør det nemt og hurtigt at redigere dele af et billede. Gem sensitive detaljer af et billede med et par klik. Du kan redigere et billede på tre forskellige måder:
+
+• Pixelering
+• Sløring
+• Sorte streger
+
+Træk et billede ind i Redacted eller indsæt et fra udklipsholderen for at komme igang. Når du er færdig, kan du dele det til Facebook, Twitter o.lign. med macOS's dele menu eller kopiere billedet fra Redacted.
+
+OBS: Redacted håndterer p.t. ikke PDF dokumenter.
