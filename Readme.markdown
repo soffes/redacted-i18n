@@ -79,6 +79,7 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 
 * [Mattieu Gamache-Asselin](https://twitter.com/MattieuGA)
 * [Maxime Bornemann](https://twitter.com/MBornemann)
+* [Valentin Menardie](https://github.com/valanz)
 
 
 ### Dutch
