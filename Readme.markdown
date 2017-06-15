@@ -89,3 +89,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Portuguese
 
 * [Rafael Conde](https://twitter.com/rafahari)
+
+
+### Simplified Chinese
+
+* [Yiming Tang](https://twitter.com/yiming_t)
