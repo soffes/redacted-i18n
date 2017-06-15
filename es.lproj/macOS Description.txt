@@ -1,0 +1,9 @@
+Redactado hace redactar partes de un imagen rápido y fácil. Oculta detalles sensibles de un imagen con simplemente haciendo clic y arrastrando. Puedes redactar una imagen en tres diferentes maneras:
+
+• Pixelado
+• Difuminar
+• Barras negras
+
+Importa un imaginen a Redacted rapidamente o simplemente pegar un imagen para empezar. Cuando hayas terminado, compartelo con Facebook, Twitter y más con el menu de compartamiento en macOS o copia el imagen fuera de Redacted.
+
+Nota: Redacted no soporta PDFs todavia.
