@@ -94,3 +94,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Simplified Chinese
 
 * [Yiming Tang](https://twitter.com/yiming_t)
+
+
+### Danish
+
+* [Chriztian Steinmeier](https://github.com/greystate)
