@@ -22,13 +22,13 @@
 /* Edit menu */
 "COPY_IMAGE" = "复制图片";
 "PASTE_IMAGE" = "粘贴图片";
-"SELECT_ALL_REDACTIONS" = "选择所有 Redactions";
+"SELECT_ALL_REDACTIONS" = "选择所有修改";
 
 /* Undo actions */
-"INSERT_REDACTION" = "插入 Redaction";
-"INSERT_REDACTIONS" = "插入 Redactions";
-"DELETE_REDACTION" = "删除 Redaction";
-"DELETE_REDACTIONS" = "删除 Redactions";
+"INSERT_REDACTION" = "插入修改";
+"INSERT_REDACTIONS" = "插入多处修改";
+"DELETE_REDACTION" = "删除修改";
+"DELETE_REDACTIONS" = "删除多处修改";
 
 /* About */
 "VERSION_FORMAT" = "版本 %@";
@@ -36,4 +36,4 @@
 
 /* Tutorial */
 "DRAG_TO_GET_STARTED" = "拖拽一张图片到这里";
-"CLICK_AND_DRAG" = "点击并拖拽来开始编辑";
+"CLICK_AND_DRAG" = "点击并拖拽以开始编辑";
