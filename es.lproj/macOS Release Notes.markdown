@@ -5,6 +5,7 @@
 * Añadido Traducción Portuguesa
 * Añadido Traducción Chino simplificado
 * Añadido Traducción Española
+* Añadido Traducción Danés
 
 
 ## Versión 1.2
