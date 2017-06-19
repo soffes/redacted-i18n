@@ -1,1 +1,1 @@
-desfocar,pixalizar,censurar,editar,esconder
+desfocar,pixalizar,censurar,editar,esconder,seguranca,privacidade,privado
