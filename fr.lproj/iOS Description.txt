@@ -7,4 +7,3 @@ Avec Redacted, il est rapide et facile de censurer une partie d'une image. Cache
 Importez une image dans Redacted ou copiez-collez l'image pour commencer. Lorsque vous avez terminé, vous pouvez la partager sur Facebook ou Twitter, ou simplement la sauvegarder sur votre ordinateur.
 
 À noter : Redacted ne supporte pas encore les fichiers au format PDF.
-

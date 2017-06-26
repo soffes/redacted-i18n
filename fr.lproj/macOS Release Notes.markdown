@@ -4,6 +4,8 @@
 
 * Ajout de la version Portuguaise
 * Ajout de la version Chinoise (simplifié)
+* Ajout de la version espagnole
+* Ajout de la version danoise
 
 ## Version 1.2
 
