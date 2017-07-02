@@ -1,9 +1,9 @@
-Redacted maakt het mogelijk om snel en makkelijk een gedeelte van een afbeelding af te schermen. Verberg gevoelige informatie in een afbeelding door simpelweg te klikken en te slepen. Je kunt afschermen in drie manieren:
+Redacted maakt het mogelijk om snel en makkelijk een gedeelte van een afbeelding af te schermen. Verberg gevoelige informatie in een afbeelding door simpelweg te klikken en te slepen. Je kunt op drie manieren afschermen:
 
 • Verpixeling
-• Vervaag
+• Vervagen
 • Zwarte balk
 
-Snel een afbeelding in het Redacted venster slepen of simpelweg kopiëren en plakken is alles wat nodig is om te kunnen starten. Wanneer je klaar bent kun je het gemakkelijk delen op Facebook, Twitter en meer doormiddel van Yosemite’s nieuwe deel menu of door simpel de afbeelding the kopiëren vanuit Redacted.
+Snel een afbeelding in het Redacted venster slepen of simpelweg kopiëren en plakken is alles wat nodig is om te kunnen starten. Wanneer je klaar bent kun je het gemakkelijk delen op Facebook, Twitter en meer doormiddel van het standaard deel menu of door simpelweg de afbeelding the kopiëren vanuit Redacted.
 
 Let op: Redacted ondersteund nog geen PDF’s.
