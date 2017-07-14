@@ -105,3 +105,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Spanish
 
 * [Fernando Paredes](https://github.com/nanoxd)
+
+
+### Romanian
+
+* Radu Ursache
