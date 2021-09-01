@@ -110,3 +110,8 @@ Huge thanks to all of the volunteers that have helped localize Redacted!
 ### Romanian
 
 * Radu Ursache
+
+### Japanese
+
+* [Ryo Nakano](https://github.com/ryonakano)
+* [Nob Nukui](https://twitter.com/nobtaka)
